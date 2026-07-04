@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# IDE
+.idea/
+.vscode/
+
+# Reasonix (AI 助理工具)
+.reasonix/
+
+# 临时脚本（非项目核心代码）
+generate_report*.py
+update_report*.py
+fix_report*.py
+check_report*.py
+test_repl.py
+test_remote*.py
+columnar_store.py
